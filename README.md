@@ -5,7 +5,7 @@
     <title></title>
 </head>
 <body>
- <a href="ist.html"><img src="C:\Users\sidhb\OneDrive\Pictures\unknown.png" alt="its me" height="300" weight="300"></a>
+ <a href="ist.html"><img src="https://mymodernmet.com/wp/wp-content/uploads/2021/10/smiling-cat-pixel-6.jpg" alt="its me" height="300" weight="300"></a>
  <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287450#overview"> hii</a>
  <table>
    <tr>
